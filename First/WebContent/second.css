@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+fieldset
+{
+	background-color:aqua;
+	width: 310px;
+	padding: 10px;
+}
+h1
+{
+	color: red;
+}
+.table
+{
+	width:300px;
+	display: table;
+}
+.row
+{
+	display: table-row;
+	padding: 10px;
+}
+.cell
+{
+	display: table-cell;
+	padding: 10px;
+}
+#p1
+{
+	float:left;
+}
+#p2
+{
+	float: right;
+}
